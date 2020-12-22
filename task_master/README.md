@@ -1,12 +1,11 @@
 # Task Manager with PHP and MySQL
 
 ## Technologies Used
-1. Core PHP Programming Language (Procedural Programming)
+1. Core PHP Programming Language 
 2. MySQL Database
 3. HTML
 4. CSS
 
-## How to Download and Run on your PC?
 
 
 
